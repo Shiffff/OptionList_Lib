@@ -6,10 +6,8 @@ const App = () => {
     "Alabama",
     "Alaska",
   ];
-
-
   const inputOptionsChange = (event) => {
-    console.log(event.target)
+    console.log(event.target.value)
   };
   return (
     <div className="App">

@@ -1,11 +1,11 @@
 {
-  "name": "optionList_shiffff",
-  "version": "1.0.4",
-  "description": "Petite bibliothèque React pour afficher une modal avec une phrase donnée.",
+  "name": "optionlist_shiffff",
+  "version": "1.0.7",
+  "description": "Petite bibliothèque React pour afficher une liste donnée dans un input option.",
   "license": "MIT",
   "author": "shiffff",
   "keywords": [
-    "modal",
+    "dropdown",
     "React",
     "bibliothèque"
   ],
